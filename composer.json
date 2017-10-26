@@ -1,0 +1,20 @@
+{
+    "name": "sayue/alidayu-php-sdk",
+    "type": "library",
+    "description": "Alibaba Dayu php-sdk",
+    "keywords": ["library", "Alibaba", "dayu", "php"],
+    "authors":[
+        {
+            "name":"sayue",
+            "email":"likehuyi92@gmail.com",
+            "homepage":"https://sayue.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alibaba\\": "src/Alibaba/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
