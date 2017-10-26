@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Alibaba Dayu php-sdk",
     "keywords": ["library", "Alibaba", "dayu", "php"],
+    "license": "MIT",
     "authors":[
         {
             "name":"sayue",
