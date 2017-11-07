@@ -14,7 +14,10 @@
     "autoload": {
         "psr-4": {
             "Alibaba\\": "src/Alibaba/"
-        }
+        },
+        "files":[
+            "src/Alibaba/globalconfig.php"
+        ]
     },
     "minimum-stability": "stable",
     "prefer-stable": true
